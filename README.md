@@ -1,18 +1,62 @@
 <h1 align="center">Hi 👋, I'm Filippo Di Marco</h1>
-<h3 align="center">I'm a DevOps and Platform Engineer working primarily on Kubernetes-based environments.</h3>
+<h3 align="center">DevOps & Platform Engineer focusing on cloud-native automation and Kubernetes.</h3>
 
-- 💬 Ask me about **Kubernetes, Docker, Git, GitOps**
-
-- 📫 How to reach me **f.dimarco@gdclouders.tech**
-
-### Connect with me:</h3>
-<p align="left">
-<ul>
-<li><a href="https://linkedin.com/in/https://www.linkedin.com/in/filippo-di-marco-703649168/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/filippo-di-marco-703649168/" height="30" width="40" /><span> LinkedIn</span></a></li>
+<p align="center">
+  I specialize in automating software delivery lifecycles and building resilient Kubernetes environments. 
+  My goal is to create seamless paths from commit to production, ensuring that stability never comes at the expense of speed.
 </p>
-</ul>
 
-### Languages and Tools:
-<ul>
-<li><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <span>Bash</span></a></li> <li><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <span>Docker</span></a></li> <li><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <span>Git</span></a></li> <li><a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> <span>Kubernetes</span></a></li> <li><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <span>GNU/Linux</span></a></li> </p>
-</ul>
+---
+
+### 🛠️ What I work on
+- **Kubernetes Ecosystem:** Cluster lifecycle, scaling, and management.
+- **CI/CD Pipelines:** Building automated, secure, and fast delivery workflows using Tekton and GitLab CI.
+- **GitOps Methodology:** Managing environment states declaratively with ArgoCD to ensure consistency.
+- **Cloud-Native Operations:** Deploying and scaling containerized applications on Kubernetes.
+- **Infrastructure as Code:** Treating infrastructure as software with OpenTofu and Terraform for repeatable deployments.
+- **Developer Enablement:** Designing tools and abstractions that help developers ship code without friction.
+- **Platform Engineering:** Reducing developer friction through abstraction and standardization.
+
+---
+### 🚀 Languages and Tools
+
+#### Virtualization & Orchestration
+<p align="left">
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="./assets/svg/docker-ar21~bgwhite.svg" alt="docker" height="40" width="80"/></a> 
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="./assets/svg/kubernetes-ar21~bgwhite.svg" alt="kubernetes" height="40" width="80"/></a> 
+<a href="https://argoproj.github.io" target="_blank" rel="noreferrer"> <img src="./assets/svg/argoprojio-ar21~bgwhite.svg" alt="argocd" height="40" width="80"/></a> 
+<a href="https://helm.sh" target="_blank" rel="noreferrer"> <img src="./assets/svg/helmsh-ar21~bgwhite.svg" alt="helm" height="40" width="80"/></a>
+</p>
+
+#### Infrastructure as Code
+<p align="left">
+<a href="https://opentofu.org" target="_blank" rel="noreferrer"> <img src="./assets/svg/opentofu-ar21~bgwhite.svg" alt="opentofu" height="40" width="80"/></a> 
+<a href="https://developer.hashicorp.com/terraform" target="_blank" rel="noreferrer"> <img src="./assets/svg/terraformio-ar21~bgwhite.svg" alt="terraform" height="40" width="80"/></a>
+</p>
+
+#### CI/CD & Systems
+<p align="left">
+<a href="https://tekton.dev" target="_blank" rel="noreferrer"> <img src="./assets/svg/tekton.svg" alt="tekton" height="40" width="80"/></a>
+<a href="https://gitlab.com" target="_blank" rel="noreferrer"> <img src="./assets/svg/gitlab-ar21~bgwhite.svg" alt="gitlab" height="40" width="80"/></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="./assets/svg/gnu_bash-ar21~bgwhite.svg" alt="bash" height="40" width="80"/></a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="./assets/svg/linux-ar21~bgwhite.svg" alt="linux" height="40" width="80"/></a>
+</p>
+
+---
+### 🌐 Elsewhere
+Side notes, experiments, and things in progress:
+
+- <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="16" height="16"> **GitHub Gists** - [fdimarcogdc](https://gist.github.com/fdimarcogdc)
+- <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="16" height="16"> **Personal Profile** - [hershellayton95](https://github.com/hershellayton95)
+- <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="16" height="16"> **LinkedIn** - [Filippo Di Marco](https://www.linkedin.com/in/filippo-di-marco-703649168/)
+
+---
+
+### 📫 Reach out
+- 💬 Ask me about **Kubernetes, GitOps, or Linux internals.**
+- 📧 Professional email: **f.dimarco@gdclouders.tech**
+---
+*No hype. Just platforms that work.*
+
+---
+- Logo Source: [Vector Logo Zone](https://www.vectorlogo.zone/logos)
